@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d7cc597c9741014fad8dc392827ddc2, type: 3}
+  m_Name: Obstacle[11]
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Id: 11
+  FileName: Obstacle[11].asset
+  Name: Obstacle[11]
+  ObstacleName: "\u6C34"
+  obstacleType: 0
+  touch_san: 0
+  OnClick: {fileID: 8300000, guid: 47ded8986416c17439ecda1124b257fd, type: 3}
+  OnTouch: {fileID: 8300000, guid: 67ae08dc26c222048839fd04cb330306, type: 3}
