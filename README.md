@@ -14,8 +14,8 @@ Because of the copyright, I remove the dialog system plugin, you can get it from
 
 downland the package above, and drag into the project, then it will work.
 
-View it in the video: 
+View it in the video: https://youtu.be/aUhSHy8n0fw
 
-Play it by download in google drive: [https://drive.google.com/file/d/15pTn2z-RLUVNeBW8rqLa-5zurQUp-6ml/view?usp=sharing](https://drive.google.com/file/d/1Psl5TsVDS2LNbXg20RUMdsZbNEvOw5j7/view?usp=sharing)https://drive.google.com/file/d/1Psl5TsVDS2LNbXg20RUMdsZbNEvOw5j7/view?usp=sharing
+Play it by download in google drive: https://drive.google.com/file/d/1Psl5TsVDS2LNbXg20RUMdsZbNEvOw5j7/view
 
 Hope you like it.
